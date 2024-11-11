@@ -1,11 +1,11 @@
 {
-    "name": "nivaasi_website",
-    "short_name": "nivaasi_website",
+    "name": "nivaasi-the property management app",
+    "short_name": "nivaasi-the property management app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "#1 property management app in india",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
